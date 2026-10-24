@@ -1,6 +1,6 @@
 ## 
 <p align="center">
-  <img src="https://img.shields.io/badge/icirism-412-E6E6E6?style=flat&labelColor=E8A0A0&logoColor=808080" />
+  <img src="https://komarev.com/ghpvc/?username=ffffay&label=icirism&color=D3D3D3&labelColor=E85D68&style=flat" />
 </p>
 <!--
 **ffffay/ffffay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
