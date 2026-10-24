@@ -10,6 +10,10 @@
 <p align="center">
   <img src="https://img.shields.io/badge/♫_Cry_Me_a_River_—_Justin_Timberlake-526D91?style=flat-square&labelColor=526D91&color=526D91" />
 </p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/♫_Cry_Me_a_River_—_Justin_Timberlake-526D91?style=flat&labelColor=526D91&color=526D91" />
+</p>
 <!--
 **ffffay/ffffay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
