@@ -2,6 +2,11 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ffffay&label=icirism&color=D3D3D3&labelColor=E85D68&style=flat" />
 </p>
+<p align="center">
+  <a href="https://open.spotify.com/track/7aQjPecQdIuNd1sz3KCDhD?si=wr0_wEufR4uVByHbOfpmIA&utm_source=copy-link">
+    <img src="https://img.shields.io/badge/♫_Lovefool_—_The_Cardigans-641818?style=flat-square&labelColor=641818&color=641818&logo=spotify&logoColor=BDBDBD" />
+  </a>
+</p>
 <!--
 **ffffay/ffffay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
