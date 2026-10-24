@@ -1,6 +1,6 @@
 ## 
 <p align="center">
-  <img src="https://cdn.phototourl.com/member/2026-10-24-a5ce264a-4145-4b28-bebb-43b356463254.jpg" width="700">
+  <img src="https://img.shields.io/badge/icirism-412-E6E6E6?style=flat&labelColor=E8A0A0&logoColor=808080" />
 </p>
 <!--
 **ffffay/ffffay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
